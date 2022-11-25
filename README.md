@@ -27,6 +27,12 @@ Will be available after manuscript published.
 - Appendix file 8: Time-scaled MCC tree of the NS gene sequences.
 - Appendix file 9: Summary of sequences used in each tree of Appendix file 1-8.
 
+### 02_RAxML_tree
+- The maximum likelihood trees were estimated by Dr. Jing Yang.
+- Appendix Figure 1 Phylogenetic tree of global H5 HA gene. The HA sequences generated in this study are labelled by green solid circle. The clade references are labelled by blue asterisks. The leftmost bars label different clades. The unit of scale bar is the number of mutations per site.
+
+- Appendix Figure 2 Phylogenetic tree of NA gene of global H5N1. The NA sequences generated in this study are labelled by green solid circle. The other NA genes identified from mainland China are labelled by blue asterisks. The leftmost bars label different clades. The unit of scale bar is the number of mutations per site.
+
 
 
 
