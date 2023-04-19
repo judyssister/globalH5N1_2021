@@ -29,9 +29,13 @@ Will be available after manuscript published.
 
 ### 02_RAxML_tree
 - The maximum likelihood trees were estimated by Dr. Jing Yang.
-- Appendix Figure 1 Phylogenetic tree of global H5 HA gene. The HA sequences generated in this study are labelled by green solid circle. The clade references are labelled by blue asterisks. The leftmost bars label different clades. The unit of scale bar is the number of mutations per site.
+- Appendix_Figure2_global_H5_phylogeny.pdf. 
 
-- Appendix Figure 2 Phylogenetic tree of NA gene of global H5N1. The NA sequences generated in this study are labelled by green solid circle. The other NA genes identified from mainland China are labelled by blue asterisks. The leftmost bars label different clades. The unit of scale bar is the number of mutations per site.
+Phylogenetic tree of global H5 HA gene. The HA sequences generated in this study are labelled by green solid circle. The clade references are labelled by blue asterisks. The leftmost bars label different clades. The unit of scale bar is the number of mutations per site.
+
+- Appendix_Figure3_phylogeny_of_NA_genes_of_global_H5N1.pdf 
+
+Phylogenetic tree of NA gene of global H5N1. The NA sequences generated in this study are labelled by green solid circle. The other NA genes identified from mainland China are labelled by blue asterisks. The leftmost bars label different clades. The unit of scale bar is the number of mutations per site.
 
 
 
