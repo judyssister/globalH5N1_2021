@@ -31,11 +31,11 @@ Will be available after manuscript published.
 - The maximum likelihood trees were estimated by Dr. Jing Yang.
 - Appendix_Figure2_global_H5_phylogeny.pdf. 
 
-Phylogenetic tree of global H5 HA gene. The HA sequences generated in this study are labelled by green solid circle. The clade references are labelled by blue asterisks. The leftmost bars label different clades. The unit of scale bar is the number of mutations per site.
+Phylogenetic tree of global H5 HA genes. HA sequences from our lab are shown in green text and labeled with solid green circles. The vaccine strains are shown in orange text and labeled with solid orange triangles. Human strains are shown in red text and labeled with red asterisks. H5 clade references are shown in blue text and labeled by blue asterisks. The rightmost bars label different clades. The unit of scale bar is the number of mutations per site.
 
 - Appendix_Figure3_phylogeny_of_NA_genes_of_global_H5N1.pdf 
 
-Phylogenetic tree of NA gene of global H5N1. The NA sequences generated in this study are labelled by green solid circle. The other NA genes identified from mainland China are labelled by blue asterisks. The leftmost bars label different clades. The unit of scale bar is the number of mutations per site.
+Phylogenetic tree of NA gene of global H5N1. The NA sequences generated in this study are shown in green text and labeled with solid green circles. The NA genes identified from mainland China (except for NA genes from this study) are shown in blue text and labeled with blue asterisks. H5N1 NA genes collected in 2020 and 2021 are labeled with light and dark orange triangles, respectively. The rightmost bars label different clades. The unit of scale bar is the number of mutations per site.
 
 
 
